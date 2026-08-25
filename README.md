@@ -112,8 +112,8 @@ mon parcours :
 | 🐵 **[API Chimpokomon](https://github.com/christophersemard/chimpokomon-api)** | API REST pédagogique avec authentification JWT, cache, gestion de médias et documentation interactive. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=white) ![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=173647) |
 
 Cette sélection rassemble les projets les plus représentatifs de mon parcours.
-Mes anciens exercices de formation sont conservés séparément afin de garder ce
-profil lisible et centré sur mes compétences actuelles.
+Les autres dépôts publics retracent ma progression depuis mes premiers exercices
+HTML, CSS, JavaScript et PHP jusqu'aux applications full-stack.
 
 ---
 
